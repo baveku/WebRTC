@@ -4,3 +4,4 @@
 depot_tools
 src
 .cipd
+.build
